@@ -1,14 +1,14 @@
 {
   "name": "html-to-image-service",
   "version": "1.0.0",
-  "description": "Microservizio Puppeteer per generare immagini da HTML",
+  "description": "Microservizio Puppeteer per generare immagini da HTML — sostituto gratuito di hcti.io",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "engines": {
-    "node": ">=18"
+    "node": "20.x"
   },
   "dependencies": {
     "express": "^4.19.0",
